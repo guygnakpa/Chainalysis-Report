@@ -333,6 +333,7 @@ st.write("___")
 #_____________________insert figure button_______________
 st.subheader("Catalysts Associated with the 2020 - 2021 Increase of Cryptocurrency Activity ")
 st.info("""
+    * 2020 Bitcoin Halving
     * COVID-19 Pandemic 
     * Quantitative Easing (QE) by Central Governments Worldwide
     * Institutional Defi activity
