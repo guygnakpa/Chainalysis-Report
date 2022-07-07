@@ -335,7 +335,7 @@ st.subheader("Catalysts Associated with the 2020 - 2021 Increase of Cryptocurren
 st.info("""
     * 2020 Bitcoin Halving
     * COVID-19 Pandemic 
-    * Quantitative Easing (QE) by Central Governments Worldwide
+    * Quantitative Easing (QE)
     * Institutional Defi activity
     * Peer-to-peer Platforms 
     """)
